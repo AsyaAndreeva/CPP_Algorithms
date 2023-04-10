@@ -1,0 +1,3 @@
+G:/Asya/CPP_Algorithums/Linear Search/cmake-build-debug/CMakeFiles/Linear_Search.dir
+G:/Asya/CPP_Algorithums/Linear Search/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/Asya/CPP_Algorithums/Linear Search/cmake-build-debug/CMakeFiles/rebuild_cache.dir
