@@ -1,0 +1,3 @@
+G:/Asya/CPP_Algorithums/Selection Sort/cmake-build-debug/CMakeFiles/Selection_Sort.dir
+G:/Asya/CPP_Algorithums/Selection Sort/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/Asya/CPP_Algorithums/Selection Sort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
