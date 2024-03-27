@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "g:/Asya/CPP_Algorithums/Insertion Sort/cmake-build-debug"
+			"value" : "g:/Asya/CPP_Algorithms/Insertion Sort/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "G:/Asya/CPP_Algorithums/Insertion Sort/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "G:/Asya/CPP_Algorithms/Insertion Sort/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "G:/Asya/CPP_Algorithums/Insertion Sort"
+			"value" : "G:/Asya/CPP_Algorithms/Insertion Sort"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1263,7 +1263,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "G:/Asya/CPP_Algorithums/Insertion Sort/cmake-build-debug"
+			"value" : "G:/Asya/CPP_Algorithms/Insertion Sort/cmake-build-debug"
 		},
 		{
 			"name" : "Insertion_Sort_IS_TOP_LEVEL",
@@ -1287,7 +1287,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "G:/Asya/CPP_Algorithums/Insertion Sort"
+			"value" : "G:/Asya/CPP_Algorithms/Insertion Sort"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",

@@ -1,4 +1,4 @@
-# Install script for directory: G:/Asya/CPP_Algorithums/Insertion Sort
+# Install script for directory: G:/Asya/CPP_Algorithms/Insertion Sort
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "G:/Asya/CPP_Algorithums/Insertion Sort/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "G:/Asya/CPP_Algorithms/Insertion Sort/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

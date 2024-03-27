@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "G:/Asya/CPP_Algorithums/Insertion Sort/cmake-build-debug",
-		"source" : "G:/Asya/CPP_Algorithums/Insertion Sort"
+		"build" : "G:/Asya/CPP_Algorithms/Insertion Sort/cmake-build-debug",
+		"source" : "G:/Asya/CPP_Algorithms/Insertion Sort"
 	},
 	"version" : 
 	{
